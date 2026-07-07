@@ -1,0 +1,9 @@
+{
+  "name": "personal-trainer",
+  "description": "Personal trainer: treinos individualizados de força, hipertrofia, emagrecimento e condicionamento, em casa ou na academia, com progressão e limites de segurança.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

@@ -19,6 +19,20 @@
       "description": "Assessor de finanças pessoais para todos os níveis de renda: orçamento, dívidas, reserva de emergência, metas e educação sobre investimentos.",
       "version": "0.1.0",
       "category": "financas"
+    },
+    {
+      "name": "personal-trainer",
+      "source": "./plugins/personal-trainer",
+      "description": "Treinos individualizados de força, hipertrofia, emagrecimento e condicionamento — na academia, em casa ou com pouco tempo.",
+      "version": "0.1.0",
+      "category": "treino"
+    },
+    {
+      "name": "mentor-de-carreira",
+      "source": "./plugins/mentor-de-carreira",
+      "description": "Currículo, LinkedIn, entrevistas, negociação salarial e transição de área, com diagnóstico do que está travando seu funil.",
+      "version": "0.1.0",
+      "category": "carreira"
     }
   ]
 }

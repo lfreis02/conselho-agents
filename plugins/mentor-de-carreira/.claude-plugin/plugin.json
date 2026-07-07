@@ -1,0 +1,9 @@
+{
+  "name": "mentor-de-carreira",
+  "description": "Mentor de carreira: currículo, LinkedIn, preparação de entrevistas, negociação salarial, transição de área e crescimento profissional, com diagnóstico do gargalo real.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

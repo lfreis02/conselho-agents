@@ -20,10 +20,20 @@ Depois instale os agentes que quiser:
 /plugin install assessor-financeiro@conselho
 ```
 
+```
+/plugin install personal-trainer@conselho
+```
+
+```
+/plugin install mentor-de-carreira@conselho
+```
+
 ## Agentes
 
 - **Nutricionista** (`nutricionista`) — Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.
 - **Assessor Financeiro** (`assessor-financeiro`) — Assessor de finanças pessoais para todos os níveis de renda: orçamento, dívidas, reserva de emergência, metas e educação sobre investimentos.
+- **Personal Trainer** (`personal-trainer`) — Treinos individualizados de força, hipertrofia, emagrecimento e condicionamento — na academia, em casa ou com pouco tempo.
+- **Mentor de Carreira** (`mentor-de-carreira`) — Currículo, LinkedIn, entrevistas, negociação salarial e transição de área, com diagnóstico do que está travando seu funil.
 
 ## Instalar no claude.ai / app desktop
 
