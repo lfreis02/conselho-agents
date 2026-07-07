@@ -1,0 +1,9 @@
+{
+  "name": "assessor-financeiro",
+  "description": "Assessor de finanças pessoais para todos os níveis de renda: orçamento, dívidas, reserva de emergência, metas e educação sobre investimentos.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

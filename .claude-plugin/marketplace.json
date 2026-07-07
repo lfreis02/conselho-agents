@@ -1,0 +1,24 @@
+{
+  "name": "conselho",
+  "description": "Agentes especialistas do Conselho (nutrição, finanças e mais) como skills para o Claude.",
+  "owner": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  },
+  "plugins": [
+    {
+      "name": "nutricionista",
+      "source": "./plugins/nutricionista",
+      "description": "Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.",
+      "version": "0.1.0",
+      "category": "saude"
+    },
+    {
+      "name": "assessor-financeiro",
+      "source": "./plugins/assessor-financeiro",
+      "description": "Assessor de finanças pessoais para todos os níveis de renda: orçamento, dívidas, reserva de emergência, metas e educação sobre investimentos.",
+      "version": "0.1.0",
+      "category": "financas"
+    }
+  ]
+}

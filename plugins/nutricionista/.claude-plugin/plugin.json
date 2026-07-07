@@ -1,0 +1,9 @@
+{
+  "name": "nutricionista",
+  "description": "Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}
