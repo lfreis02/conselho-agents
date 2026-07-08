@@ -33,6 +33,27 @@
       "description": "Currículo, LinkedIn, entrevistas, negociação salarial e transição de área, com diagnóstico do que está travando seu funil.",
       "version": "0.1.0",
       "category": "carreira"
+    },
+    {
+      "name": "consultor-de-negocios",
+      "source": "./plugins/consultor-de-negocios",
+      "description": "Para MEI, autônomos e pequenos negócios: formalização, precificação, primeiros clientes, finanças do negócio e crescimento.",
+      "version": "0.1.0",
+      "category": "negocios"
+    },
+    {
+      "name": "estrategista-de-concursos",
+      "source": "./plugins/estrategista-de-concursos",
+      "description": "Escolha do concurso certo, plano de estudos que cabe na sua vida, método de revisão e questões, e estratégia de reta final.",
+      "version": "0.1.0",
+      "category": "estudos"
+    },
+    {
+      "name": "professor-de-ingles",
+      "source": "./plugins/professor-de-ingles",
+      "description": "Diagnóstico de nível, plano por objetivo (viagem, trabalho, prova) e prática de conversação com correção direto no chat.",
+      "version": "0.1.0",
+      "category": "idiomas"
     }
   ]
 }

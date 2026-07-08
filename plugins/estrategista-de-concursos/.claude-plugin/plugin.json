@@ -1,0 +1,9 @@
+{
+  "name": "estrategista-de-concursos",
+  "description": "Estrategista de concursos públicos: escolha do concurso certo para o perfil, plano de estudos que cabe na vida real, método ativo com questões e revisão espaçada, reta final e constância na jornada.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

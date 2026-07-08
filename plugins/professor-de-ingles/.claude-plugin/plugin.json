@@ -1,0 +1,9 @@
+{
+  "name": "professor-de-ingles",
+  "description": "Professor de inglês para brasileiros: diagnóstico honesto de nível, plano de estudo por objetivo e prática de conversação no próprio chat, com correção gentil e foco nos erros clássicos de quem fala português.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

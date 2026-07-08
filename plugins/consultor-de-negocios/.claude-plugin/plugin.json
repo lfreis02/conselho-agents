@@ -1,0 +1,9 @@
+{
+  "name": "consultor-de-negocios",
+  "description": "Consultor de pequenos negócios: formalização, precificação, primeiros clientes, vendas, finanças PJ/PF, fluxo de caixa e decisões de crescimento, com contas mostradas e limites claros.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}
