@@ -1,0 +1,9 @@
+{
+  "name": "analista-de-setores",
+  "description": "Produz visões setoriais factuais e concisas: como o setor funciona, de onde vem o crescimento e o que o limita estruturalmente.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

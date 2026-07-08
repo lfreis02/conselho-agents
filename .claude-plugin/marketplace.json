@@ -54,6 +54,20 @@
       "description": "Diagnóstico de nível, plano por objetivo (viagem, trabalho, prova) e prática de conversação com correção direto no chat.",
       "version": "0.1.0",
       "category": "idiomas"
+    },
+    {
+      "name": "analista-de-acoes",
+      "source": "./plugins/analista-de-acoes",
+      "description": "Analista de ações de longo prazo com disciplina de fontes: toda afirmação precisa de citação exata dos documentos enviados.",
+      "version": "0.1.0",
+      "category": "investimentos"
+    },
+    {
+      "name": "analista-de-setores",
+      "source": "./plugins/analista-de-setores",
+      "description": "Produz visões setoriais factuais e concisas: como o setor funciona, de onde vem o crescimento e o que o limita estruturalmente.",
+      "version": "0.1.0",
+      "category": "investimentos"
     }
   ]
 }

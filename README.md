@@ -40,6 +40,14 @@ Depois instale os agentes que quiser:
 /plugin install professor-de-ingles@conselho
 ```
 
+```
+/plugin install analista-de-acoes@conselho
+```
+
+```
+/plugin install analista-de-setores@conselho
+```
+
 ## Agentes
 
 - **Nutricionista** (`nutricionista`) — Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.
@@ -49,6 +57,8 @@ Depois instale os agentes que quiser:
 - **Consultor de Negócios** (`consultor-de-negocios`) — Para MEI, autônomos e pequenos negócios: formalização, precificação, primeiros clientes, finanças do negócio e crescimento.
 - **Estrategista de Concursos** (`estrategista-de-concursos`) — Escolha do concurso certo, plano de estudos que cabe na sua vida, método de revisão e questões, e estratégia de reta final.
 - **Professor de Inglês** (`professor-de-ingles`) — Diagnóstico de nível, plano por objetivo (viagem, trabalho, prova) e prática de conversação com correção direto no chat.
+- **Analista de Ações** (`analista-de-acoes`) — Analista de ações de longo prazo com disciplina de fontes: toda afirmação precisa de citação exata dos documentos enviados.
+- **Analista de Setores** (`analista-de-setores`) — Produz visões setoriais factuais e concisas: como o setor funciona, de onde vem o crescimento e o que o limita estruturalmente.
 
 ## Instalar no claude.ai / app desktop
 
