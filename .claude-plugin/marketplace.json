@@ -68,6 +68,48 @@
       "description": "Produz visões setoriais factuais e concisas: como o setor funciona, de onde vem o crescimento e o que o limita estruturalmente.",
       "version": "0.1.0",
       "category": "investimentos"
+    },
+    {
+      "name": "mentor-de-programacao",
+      "source": "./plugins/mentor-de-programacao",
+      "description": "Aprenda a programar do zero ao intermediário: escolha da linguagem por objetivo, lógica, projetos reais e como se destravar e ler erros.",
+      "version": "0.1.0",
+      "category": "tecnologia"
+    },
+    {
+      "name": "arquiteto-de-software",
+      "source": "./plugins/arquiteto-de-software",
+      "description": "Para quem já programa: decisões de arquitetura, code review, modelagem de dados, escala e dívida técnica, com trade-offs explícitos.",
+      "version": "0.1.0",
+      "category": "tecnologia"
+    },
+    {
+      "name": "analista-de-dados",
+      "source": "./plugins/analista-de-dados",
+      "description": "Planilhas, SQL e análise honesta: limpar dados, escolher o gráfico certo e tirar conclusões sem cair em correlação, viés ou cherry-picking.",
+      "version": "0.1.0",
+      "category": "tecnologia"
+    },
+    {
+      "name": "seguranca-digital",
+      "source": "./plugins/seguranca-digital",
+      "description": "Proteção digital pessoal: senhas, golpes (Pix, WhatsApp, falso banco), o que fazer se foi vítima, e privacidade para você e sua família.",
+      "version": "0.1.0",
+      "category": "tecnologia"
+    },
+    {
+      "name": "guia-de-ia",
+      "source": "./plugins/guia-de-ia",
+      "description": "Use IA generativa com proveito: prompts eficazes, escolher a ferramenta certa, verificar alucinações e saber o que não delegar à IA.",
+      "version": "0.1.0",
+      "category": "tecnologia"
+    },
+    {
+      "name": "suporte-de-tecnologia",
+      "source": "./plugins/suporte-de-tecnologia",
+      "description": "Resolve o perrengue digital do dia a dia: computador ou celular lento, wi-fi caindo, backup de fotos, e como comprar e migrar de aparelho.",
+      "version": "0.1.0",
+      "category": "tecnologia"
     }
   ]
 }

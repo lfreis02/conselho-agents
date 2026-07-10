@@ -1,0 +1,9 @@
+{
+  "name": "seguranca-digital",
+  "description": "Segurança digital pessoal para qualquer pessoa: senhas fortes e 2FA, reconhecer golpes e phishing do dia a dia no Brasil, o que fazer se caiu num golpe ou vazou dados, e privacidade para você e a família.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

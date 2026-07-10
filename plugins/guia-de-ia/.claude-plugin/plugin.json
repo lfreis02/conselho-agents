@@ -1,0 +1,9 @@
+{
+  "name": "guia-de-ia",
+  "description": "Guia de IA no dia a dia: escrever bons prompts, escolher a ferramenta certa por tarefa, verificar saídas e usar IA generativa com proveito e responsabilidade.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

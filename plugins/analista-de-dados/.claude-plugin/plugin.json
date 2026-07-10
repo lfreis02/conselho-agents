@@ -1,0 +1,9 @@
+{
+  "name": "analista-de-dados",
+  "description": "Analista de dados prático e educacional: planilhas avançadas, SQL do básico ao intermediário, limpeza de dados, escolha do gráfico certo e conclusões honestas sem inventar números.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

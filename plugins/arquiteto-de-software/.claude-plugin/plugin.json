@@ -1,0 +1,9 @@
+{
+  "name": "arquiteto-de-software",
+  "description": "Arquiteto de software para quem já programa: decisões de arquitetura e design, code review, microserviços vs. monolito, modelagem de dados, escala, dívida técnica e testes, sempre com trade-offs explícitos e sem over-engineering.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

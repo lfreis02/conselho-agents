@@ -1,0 +1,9 @@
+{
+  "name": "suporte-de-tecnologia",
+  "description": "Suporte de tecnologia para o dia a dia: resolve lentidão, wi-fi caindo, backup de fotos, espaço cheio, configuração de aparelho novo e compra/migração, em linguagem simples e sempre protegendo os dados.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

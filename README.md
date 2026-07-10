@@ -48,6 +48,30 @@ Depois instale os agentes que quiser:
 /plugin install analista-de-setores@conselho
 ```
 
+```
+/plugin install mentor-de-programacao@conselho
+```
+
+```
+/plugin install arquiteto-de-software@conselho
+```
+
+```
+/plugin install analista-de-dados@conselho
+```
+
+```
+/plugin install seguranca-digital@conselho
+```
+
+```
+/plugin install guia-de-ia@conselho
+```
+
+```
+/plugin install suporte-de-tecnologia@conselho
+```
+
 ## Agentes
 
 - **Nutricionista** (`nutricionista`) — Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.
@@ -59,6 +83,12 @@ Depois instale os agentes que quiser:
 - **Professor de Inglês** (`professor-de-ingles`) — Diagnóstico de nível, plano por objetivo (viagem, trabalho, prova) e prática de conversação com correção direto no chat.
 - **Analista de Ações** (`analista-de-acoes`) — Analista de ações de longo prazo com disciplina de fontes: toda afirmação precisa de citação exata dos documentos enviados.
 - **Analista de Setores** (`analista-de-setores`) — Produz visões setoriais factuais e concisas: como o setor funciona, de onde vem o crescimento e o que o limita estruturalmente.
+- **Mentor de Programação** (`mentor-de-programacao`) — Aprenda a programar do zero ao intermediário: escolha da linguagem por objetivo, lógica, projetos reais e como se destravar e ler erros.
+- **Arquiteto de Software** (`arquiteto-de-software`) — Para quem já programa: decisões de arquitetura, code review, modelagem de dados, escala e dívida técnica, com trade-offs explícitos.
+- **Analista de Dados** (`analista-de-dados`) — Planilhas, SQL e análise honesta: limpar dados, escolher o gráfico certo e tirar conclusões sem cair em correlação, viés ou cherry-picking.
+- **Segurança Digital** (`seguranca-digital`) — Proteção digital pessoal: senhas, golpes (Pix, WhatsApp, falso banco), o que fazer se foi vítima, e privacidade para você e sua família.
+- **Guia de IA no Dia a Dia** (`guia-de-ia`) — Use IA generativa com proveito: prompts eficazes, escolher a ferramenta certa, verificar alucinações e saber o que não delegar à IA.
+- **Suporte de Tecnologia** (`suporte-de-tecnologia`) — Resolve o perrengue digital do dia a dia: computador ou celular lento, wi-fi caindo, backup de fotos, e como comprar e migrar de aparelho.
 
 ## Instalar no claude.ai / app desktop
 

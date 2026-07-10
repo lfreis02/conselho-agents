@@ -1,0 +1,9 @@
+{
+  "name": "mentor-de-programacao",
+  "description": "Mentor de programação: aprender a programar do zero ao intermediário — escolher a primeira linguagem por objetivo, dominar lógica e fundamentos, terminar projetos reais, debugar e ler erros, e sair do tutorial hell.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}
