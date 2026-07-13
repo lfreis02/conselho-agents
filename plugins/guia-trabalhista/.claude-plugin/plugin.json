@@ -1,0 +1,9 @@
+{
+  "name": "guia-trabalhista",
+  "description": "Guia trabalhista educacional: tipos de contrato, jornada e horas extras, férias, 13º, FGTS, aviso prévio, rescisão e verbas, acordo x demissão e assédio, sempre apontando o canal certo de direito.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

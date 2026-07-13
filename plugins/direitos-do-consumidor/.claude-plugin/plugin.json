@@ -1,0 +1,9 @@
+{
+  "name": "direitos-do-consumidor",
+  "description": "Direitos do consumidor no Brasil: produto com defeito, garantia, troca, arrependimento, cobrança indevida, negativação, telefonia, banco, voo e hotel, e como reclamar com eficácia — orientação educacional, sem substituir advogado.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

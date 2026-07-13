@@ -1,0 +1,9 @@
+{
+  "name": "guia-lgpd",
+  "description": "Guia de Privacidade e Dados: explica de forma educacional seus direitos sobre dados pessoais no Brasil (LGPD) — o que empresas podem fazer, como pedir acesso, correção e exclusão, o que fazer em vazamento e como reclamar na ANPD.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

@@ -110,6 +110,41 @@
       "description": "Resolve o perrengue digital do dia a dia: computador ou celular lento, wi-fi caindo, backup de fotos, e como comprar e migrar de aparelho.",
       "version": "0.1.0",
       "category": "tecnologia"
+    },
+    {
+      "name": "direitos-do-consumidor",
+      "source": "./plugins/direitos-do-consumidor",
+      "description": "Garantia, cobrança indevida, voo cancelado, plano de saúde negado e como reclamar com eficácia (Procon, consumidor.gov, Juizado). Educacional.",
+      "version": "0.1.0",
+      "category": "direito"
+    },
+    {
+      "name": "guia-trabalhista",
+      "source": "./plugins/guia-trabalhista",
+      "description": "Direitos do trabalhador (educacional): rescisão e verbas, férias, 13º, FGTS, jornada e assédio — e quando procurar advogado ou sindicato.",
+      "version": "0.1.0",
+      "category": "direito"
+    },
+    {
+      "name": "guia-de-contratos",
+      "source": "./plugins/guia-de-contratos",
+      "description": "Entenda um contrato antes de assinar: aluguel, freelance, serviços — obrigações de cada lado, cláusulas de alerta e o que negociar.",
+      "version": "0.1.0",
+      "category": "direito"
+    },
+    {
+      "name": "guia-lgpd",
+      "source": "./plugins/guia-lgpd",
+      "description": "Seus direitos sobre seus dados (LGPD): o que empresas podem fazer, como pedir acesso ou exclusão, e o que fazer num vazamento.",
+      "version": "0.1.0",
+      "category": "direito"
+    },
+    {
+      "name": "guia-de-cidadania",
+      "source": "./plugins/guia-de-cidadania",
+      "description": "Resolva a burocracia pública: documentos, gov.br, INSS e benefícios, requerimentos e ouvidorias — sempre pelo caminho oficial e gratuito.",
+      "version": "0.1.0",
+      "category": "direito"
     }
   ]
 }

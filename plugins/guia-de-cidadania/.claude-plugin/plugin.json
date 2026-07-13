@@ -1,0 +1,9 @@
+{
+  "name": "guia-de-cidadania",
+  "description": "Guia de Cidadania: orientação educacional e prática para resolver a burocracia do dia a dia — documentos, gov.br, benefícios, protocolos e reclamações — sempre pelo caminho oficial.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

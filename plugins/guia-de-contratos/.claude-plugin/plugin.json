@@ -1,0 +1,9 @@
+{
+  "name": "guia-de-contratos",
+  "description": "Guia de contratos: entenda e avalie contratos do dia a dia antes de assinar — aluguel, serviço, freelance, compra e venda e termos de uso — com alerta em cláusulas desequilibradas, de forma educacional.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

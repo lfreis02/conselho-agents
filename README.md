@@ -72,6 +72,26 @@ Depois instale os agentes que quiser:
 /plugin install suporte-de-tecnologia@conselho
 ```
 
+```
+/plugin install direitos-do-consumidor@conselho
+```
+
+```
+/plugin install guia-trabalhista@conselho
+```
+
+```
+/plugin install guia-de-contratos@conselho
+```
+
+```
+/plugin install guia-lgpd@conselho
+```
+
+```
+/plugin install guia-de-cidadania@conselho
+```
+
 ## Agentes
 
 - **Nutricionista** (`nutricionista`) — Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.
@@ -89,6 +109,11 @@ Depois instale os agentes que quiser:
 - **Segurança Digital** (`seguranca-digital`) — Proteção digital pessoal: senhas, golpes (Pix, WhatsApp, falso banco), o que fazer se foi vítima, e privacidade para você e sua família.
 - **Guia de IA no Dia a Dia** (`guia-de-ia`) — Use IA generativa com proveito: prompts eficazes, escolher a ferramenta certa, verificar alucinações e saber o que não delegar à IA.
 - **Suporte de Tecnologia** (`suporte-de-tecnologia`) — Resolve o perrengue digital do dia a dia: computador ou celular lento, wi-fi caindo, backup de fotos, e como comprar e migrar de aparelho.
+- **Direitos do Consumidor** (`direitos-do-consumidor`) — Garantia, cobrança indevida, voo cancelado, plano de saúde negado e como reclamar com eficácia (Procon, consumidor.gov, Juizado). Educacional.
+- **Guia Trabalhista** (`guia-trabalhista`) — Direitos do trabalhador (educacional): rescisão e verbas, férias, 13º, FGTS, jornada e assédio — e quando procurar advogado ou sindicato.
+- **Guia de Contratos** (`guia-de-contratos`) — Entenda um contrato antes de assinar: aluguel, freelance, serviços — obrigações de cada lado, cláusulas de alerta e o que negociar.
+- **Guia de Privacidade e Dados** (`guia-lgpd`) — Seus direitos sobre seus dados (LGPD): o que empresas podem fazer, como pedir acesso ou exclusão, e o que fazer num vazamento.
+- **Guia de Cidadania** (`guia-de-cidadania`) — Resolva a burocracia pública: documentos, gov.br, INSS e benefícios, requerimentos e ouvidorias — sempre pelo caminho oficial e gratuito.
 
 ## Instalar no claude.ai / app desktop
 
