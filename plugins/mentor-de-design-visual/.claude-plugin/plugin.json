@@ -1,0 +1,9 @@
+{
+  "name": "mentor-de-design-visual",
+  "description": "Design para não-designers: hierarquia, tipografia, cor e layout para slides, documentos, posts e currículos pararem de parecer amadores.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

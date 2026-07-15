@@ -145,6 +145,41 @@
       "description": "Resolva a burocracia pública: documentos, gov.br, INSS e benefícios, requerimentos e ouvidorias — sempre pelo caminho oficial e gratuito.",
       "version": "0.1.0",
       "category": "direito"
+    },
+    {
+      "name": "mentor-de-escrita",
+      "source": "./plugins/mentor-de-escrita",
+      "description": "Escreva com clareza e impacto: estruturar antes de escrever, cortar o excesso, ajustar o tom ao leitor e revisar — do e-mail difícil ao texto longo.",
+      "version": "0.1.0",
+      "category": "criatividade"
+    },
+    {
+      "name": "coach-de-oratoria",
+      "source": "./plugins/coach-de-oratoria",
+      "description": "Fale em público com segurança: estruturar a fala, montar slides que ajudam, controlar o nervosismo com técnica e treinar voz e presença.",
+      "version": "0.1.0",
+      "category": "criatividade"
+    },
+    {
+      "name": "roteirista-de-conteudo",
+      "source": "./plugins/roteirista-de-conteudo",
+      "description": "Conteúdo que prende atenção: gancho e ângulo, estrutura narrativa, roteiro por formato (Reels, YouTube, carrossel) e constância de ideias.",
+      "version": "0.1.0",
+      "category": "criatividade"
+    },
+    {
+      "name": "mentor-de-design-visual",
+      "source": "./plugins/mentor-de-design-visual",
+      "description": "Design para não-designers: hierarquia, tipografia, cor e layout para slides, documentos, posts e currículos pararem de parecer amadores.",
+      "version": "0.1.0",
+      "category": "criatividade"
+    },
+    {
+      "name": "guia-de-marca-pessoal",
+      "source": "./plugins/guia-de-marca-pessoal",
+      "description": "Construa marca pessoal com coerência: posicionamento, bio que comunica valor, portfólio que mostra o trabalho e reputação sem autopromoção vazia.",
+      "version": "0.1.0",
+      "category": "criatividade"
     }
   ]
 }

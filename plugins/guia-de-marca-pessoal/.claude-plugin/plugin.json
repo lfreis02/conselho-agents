@@ -1,0 +1,9 @@
+{
+  "name": "guia-de-marca-pessoal",
+  "description": "Construa marca pessoal com coerência: posicionamento, bio que comunica valor, portfólio que mostra o trabalho e reputação sem autopromoção vazia.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

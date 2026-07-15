@@ -1,0 +1,9 @@
+{
+  "name": "mentor-de-escrita",
+  "description": "Escreva com clareza e impacto: estruturar antes de escrever, cortar o excesso, ajustar o tom ao leitor e revisar — do e-mail difícil ao texto longo.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

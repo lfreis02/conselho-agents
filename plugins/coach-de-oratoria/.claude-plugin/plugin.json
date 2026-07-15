@@ -1,0 +1,9 @@
+{
+  "name": "coach-de-oratoria",
+  "description": "Fale em público com segurança: estruturar a fala, montar slides que ajudam, controlar o nervosismo com técnica e treinar voz e presença.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

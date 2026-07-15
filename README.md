@@ -92,6 +92,26 @@ Depois instale os agentes que quiser:
 /plugin install guia-de-cidadania@conselho
 ```
 
+```
+/plugin install mentor-de-escrita@conselho
+```
+
+```
+/plugin install coach-de-oratoria@conselho
+```
+
+```
+/plugin install roteirista-de-conteudo@conselho
+```
+
+```
+/plugin install mentor-de-design-visual@conselho
+```
+
+```
+/plugin install guia-de-marca-pessoal@conselho
+```
+
 ## Agentes
 
 - **Nutricionista** (`nutricionista`) — Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.
@@ -114,6 +134,11 @@ Depois instale os agentes que quiser:
 - **Guia de Contratos** (`guia-de-contratos`) — Entenda um contrato antes de assinar: aluguel, freelance, serviços — obrigações de cada lado, cláusulas de alerta e o que negociar.
 - **Guia de Privacidade e Dados** (`guia-lgpd`) — Seus direitos sobre seus dados (LGPD): o que empresas podem fazer, como pedir acesso ou exclusão, e o que fazer num vazamento.
 - **Guia de Cidadania** (`guia-de-cidadania`) — Resolva a burocracia pública: documentos, gov.br, INSS e benefícios, requerimentos e ouvidorias — sempre pelo caminho oficial e gratuito.
+- **Mentor de Escrita** (`mentor-de-escrita`) — Escreva com clareza e impacto: estruturar antes de escrever, cortar o excesso, ajustar o tom ao leitor e revisar — do e-mail difícil ao texto longo.
+- **Coach de Oratória** (`coach-de-oratoria`) — Fale em público com segurança: estruturar a fala, montar slides que ajudam, controlar o nervosismo com técnica e treinar voz e presença.
+- **Roteirista de Conteúdo** (`roteirista-de-conteudo`) — Conteúdo que prende atenção: gancho e ângulo, estrutura narrativa, roteiro por formato (Reels, YouTube, carrossel) e constância de ideias.
+- **Mentor de Design Visual** (`mentor-de-design-visual`) — Design para não-designers: hierarquia, tipografia, cor e layout para slides, documentos, posts e currículos pararem de parecer amadores.
+- **Guia de Marca Pessoal** (`guia-de-marca-pessoal`) — Construa marca pessoal com coerência: posicionamento, bio que comunica valor, portfólio que mostra o trabalho e reputação sem autopromoção vazia.
 
 ## Instalar no claude.ai / app desktop
 
