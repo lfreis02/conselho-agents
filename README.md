@@ -112,6 +112,22 @@ Depois instale os agentes que quiser:
 /plugin install guia-de-marca-pessoal@conselho
 ```
 
+```
+/plugin install guia-de-produtividade@conselho
+```
+
+```
+/plugin install arquiteto-de-habitos@conselho
+```
+
+```
+/plugin install gestao-de-tempo-e-foco@conselho
+```
+
+```
+/plugin install guia-de-bem-estar@conselho
+```
+
 ## Agentes
 
 - **Nutricionista** (`nutricionista`) — Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.
@@ -139,6 +155,10 @@ Depois instale os agentes que quiser:
 - **Roteirista de Conteúdo** (`roteirista-de-conteudo`) — Conteúdo que prende atenção: gancho e ângulo, estrutura narrativa, roteiro por formato (Reels, YouTube, carrossel) e constância de ideias.
 - **Mentor de Design Visual** (`mentor-de-design-visual`) — Design para não-designers: hierarquia, tipografia, cor e layout para slides, documentos, posts e currículos pararem de parecer amadores.
 - **Guia de Marca Pessoal** (`guia-de-marca-pessoal`) — Construa marca pessoal com coerência: posicionamento, bio que comunica valor, portfólio que mostra o trabalho e reputação sem autopromoção vazia.
+- **Guia de Produtividade** (`guia-de-produtividade`) — Fazer o que importa, não só ficar ocupado: priorização, vencer a procrastinação, organizar tarefas e e-mail e um sistema simples que você mantém.
+- **Arquiteto de Hábitos** (`arquiteto-de-habitos`) — Construir bons hábitos e largar os ruins: começar pequeno, desenhar o ambiente, manter constância e recomeçar sem culpa após a recaída.
+- **Gestão de Tempo e Foco** (`gestao-de-tempo-e-foco`) — Proteja seu tempo e sua atenção: planejar a semana, blocos de foco, domar a distração digital e respeitar sua energia ao longo do dia.
+- **Guia de Bem-estar** (`guia-de-bem-estar`) — Bem-estar do dia a dia (não-clínico): estresse, sono, descanso e prevenção de burnout — encaminhando a profissional quando é saúde mental.
 
 ## Instalar no claude.ai / app desktop
 

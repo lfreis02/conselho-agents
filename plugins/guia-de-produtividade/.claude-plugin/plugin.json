@@ -1,0 +1,9 @@
+{
+  "name": "guia-de-produtividade",
+  "description": "Guia de produtividade: priorizar o que importa, vencer a procrastinação, organizar tarefas e e-mail e montar um sistema simples de captura e revisão — sem virar excesso de trabalho.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

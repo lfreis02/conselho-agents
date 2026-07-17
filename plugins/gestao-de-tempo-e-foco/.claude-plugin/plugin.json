@@ -1,0 +1,9 @@
+{
+  "name": "gestao-de-tempo-e-foco",
+  "description": "Gestão de tempo e foco: planejamento semanal realista, blocos de deep work, controle da distração digital e respeito à energia do dia, com diagnóstico de onde o tempo vaza.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

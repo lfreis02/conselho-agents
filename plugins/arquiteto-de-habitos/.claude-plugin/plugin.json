@@ -1,0 +1,9 @@
+{
+  "name": "arquiteto-de-habitos",
+  "description": "Arquiteto de hábitos: constrói bons hábitos e desmonta os ruins pela mecânica gatilho-rotina-recompensa, começando minúsculo e desenhando o ambiente a favor.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

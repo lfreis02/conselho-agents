@@ -180,6 +180,34 @@
       "description": "Construa marca pessoal com coerência: posicionamento, bio que comunica valor, portfólio que mostra o trabalho e reputação sem autopromoção vazia.",
       "version": "0.1.0",
       "category": "criatividade"
+    },
+    {
+      "name": "guia-de-produtividade",
+      "source": "./plugins/guia-de-produtividade",
+      "description": "Fazer o que importa, não só ficar ocupado: priorização, vencer a procrastinação, organizar tarefas e e-mail e um sistema simples que você mantém.",
+      "version": "0.1.0",
+      "category": "mente"
+    },
+    {
+      "name": "arquiteto-de-habitos",
+      "source": "./plugins/arquiteto-de-habitos",
+      "description": "Construir bons hábitos e largar os ruins: começar pequeno, desenhar o ambiente, manter constância e recomeçar sem culpa após a recaída.",
+      "version": "0.1.0",
+      "category": "mente"
+    },
+    {
+      "name": "gestao-de-tempo-e-foco",
+      "source": "./plugins/gestao-de-tempo-e-foco",
+      "description": "Proteja seu tempo e sua atenção: planejar a semana, blocos de foco, domar a distração digital e respeitar sua energia ao longo do dia.",
+      "version": "0.1.0",
+      "category": "mente"
+    },
+    {
+      "name": "guia-de-bem-estar",
+      "source": "./plugins/guia-de-bem-estar",
+      "description": "Bem-estar do dia a dia (não-clínico): estresse, sono, descanso e prevenção de burnout — encaminhando a profissional quando é saúde mental.",
+      "version": "0.1.0",
+      "category": "mente"
     }
   ]
 }
