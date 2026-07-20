@@ -208,6 +208,41 @@
       "description": "Bem-estar do dia a dia (não-clínico): estresse, sono, descanso e prevenção de burnout — encaminhando a profissional quando é saúde mental.",
       "version": "0.1.0",
       "category": "mente"
+    },
+    {
+      "name": "financas-da-familia",
+      "source": "./plugins/financas-da-familia",
+      "description": "Dinheiro no casal e na família: orçamento da casa, dividir contas com justiça, conversar sem brigar e ensinar os filhos sobre dinheiro.",
+      "version": "0.1.0",
+      "category": "familia"
+    },
+    {
+      "name": "organizacao-da-casa",
+      "source": "./plugins/organizacao-da-casa",
+      "description": "Organize a casa e a rotina: dividir tarefas com justiça (inclusive a carga mental), desapegar e manter a ordem sem virar escravo dela.",
+      "version": "0.1.0",
+      "category": "familia"
+    },
+    {
+      "name": "planejador-de-viagens",
+      "source": "./plugins/planejador-de-viagens",
+      "description": "Planeje a viagem do início ao fim: destino por perfil e orçamento, roteiro realista, quanto vai custar e o checklist do antes de viajar.",
+      "version": "0.1.0",
+      "category": "familia"
+    },
+    {
+      "name": "guia-de-parentalidade",
+      "source": "./plugins/guia-de-parentalidade",
+      "description": "Criar filhos com afeto e limites: fases, birra, sono, telas, adolescência e vínculo — educacional, sem julgamento e sem castigo físico.",
+      "version": "0.1.0",
+      "category": "familia"
+    },
+    {
+      "name": "comunicacao-e-relacoes",
+      "source": "./plugins/comunicacao-e-relacoes",
+      "description": "Comunicação e relacionamentos: conversas difíceis, conflitos que se repetem, casal e família — priorizando segurança diante de violência.",
+      "version": "0.1.0",
+      "category": "familia"
     }
   ]
 }

@@ -128,6 +128,26 @@ Depois instale os agentes que quiser:
 /plugin install guia-de-bem-estar@conselho
 ```
 
+```
+/plugin install financas-da-familia@conselho
+```
+
+```
+/plugin install organizacao-da-casa@conselho
+```
+
+```
+/plugin install planejador-de-viagens@conselho
+```
+
+```
+/plugin install guia-de-parentalidade@conselho
+```
+
+```
+/plugin install comunicacao-e-relacoes@conselho
+```
+
 ## Agentes
 
 - **Nutricionista** (`nutricionista`) — Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.
@@ -159,6 +179,11 @@ Depois instale os agentes que quiser:
 - **Arquiteto de Hábitos** (`arquiteto-de-habitos`) — Construir bons hábitos e largar os ruins: começar pequeno, desenhar o ambiente, manter constância e recomeçar sem culpa após a recaída.
 - **Gestão de Tempo e Foco** (`gestao-de-tempo-e-foco`) — Proteja seu tempo e sua atenção: planejar a semana, blocos de foco, domar a distração digital e respeitar sua energia ao longo do dia.
 - **Guia de Bem-estar** (`guia-de-bem-estar`) — Bem-estar do dia a dia (não-clínico): estresse, sono, descanso e prevenção de burnout — encaminhando a profissional quando é saúde mental.
+- **Finanças da Família** (`financas-da-familia`) — Dinheiro no casal e na família: orçamento da casa, dividir contas com justiça, conversar sem brigar e ensinar os filhos sobre dinheiro.
+- **Organização da Casa e Rotina** (`organizacao-da-casa`) — Organize a casa e a rotina: dividir tarefas com justiça (inclusive a carga mental), desapegar e manter a ordem sem virar escravo dela.
+- **Planejador de Viagens** (`planejador-de-viagens`) — Planeje a viagem do início ao fim: destino por perfil e orçamento, roteiro realista, quanto vai custar e o checklist do antes de viajar.
+- **Guia de Parentalidade** (`guia-de-parentalidade`) — Criar filhos com afeto e limites: fases, birra, sono, telas, adolescência e vínculo — educacional, sem julgamento e sem castigo físico.
+- **Comunicação e Relações** (`comunicacao-e-relacoes`) — Comunicação e relacionamentos: conversas difíceis, conflitos que se repetem, casal e família — priorizando segurança diante de violência.
 
 ## Instalar no claude.ai / app desktop
 

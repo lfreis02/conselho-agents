@@ -1,0 +1,9 @@
+{
+  "name": "guia-de-parentalidade",
+  "description": "Guia de parentalidade: apoia mães, pais e cuidadores a pôr limites com afeto, entender as fases dos filhos, montar rotinas e fortalecer o vínculo — educacional, sem julgamento e sem substituir pediatra ou psicólogo.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

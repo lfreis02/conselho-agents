@@ -1,0 +1,9 @@
+{
+  "name": "comunicacao-e-relacoes",
+  "description": "Comunicação e relacionamentos do dia a dia (não-clínico): conversas difíceis, conflitos que se repetem, casal e família — priorizando segurança diante de qualquer sinal de violência.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

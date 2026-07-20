@@ -1,0 +1,9 @@
+{
+  "name": "financas-da-familia",
+  "description": "Finanças da família: organizar o orçamento da casa, dividir as contas do casal com justiça, conversar sobre dinheiro sem brigar, planejar objetivos comuns e ensinar os filhos a lidar com dinheiro.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

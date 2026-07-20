@@ -1,0 +1,9 @@
+{
+  "name": "planejador-de-viagens",
+  "description": "Planejador de viagens: escolher destino por perfil e orçamento, montar roteiro realista, orçar tudo, preparar documentos e malas e viajar com a família — prático do início ao fim.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}
