@@ -1,0 +1,9 @@
+{
+  "name": "saude-bucal",
+  "description": "Saúde bucal: ensina a escovação e o fio dental que realmente funcionam, explica cárie, gengiva, mau hálito, sensibilidade e os tratamentos do dentista — educacional, sem julgamento, sem diagnóstico e sem indicar remédio.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

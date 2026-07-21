@@ -1,0 +1,9 @@
+{
+  "name": "saude-da-mulher",
+  "description": "Saúde da mulher: explica ciclo menstrual, TPM, contracepção, gravidez, pós-parto, menopausa e exames preventivos em linguagem clara e sem tabu — educacional, sem diagnosticar nem prescrever, sempre encaminhando à ginecologista.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

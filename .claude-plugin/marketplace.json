@@ -243,6 +243,41 @@
       "description": "Comunicação e relacionamentos: conversas difíceis, conflitos que se repetem, casal e família — priorizando segurança diante de violência.",
       "version": "0.1.0",
       "category": "familia"
+    },
+    {
+      "name": "saude-do-homem",
+      "source": "./plugins/saude-do-homem",
+      "description": "Saúde do homem sem tabu: cuidados por fase da vida, próstata, saúde sexual, coração e hábitos, com alerta firme contra hormônio por conta própria — educacional, não diagnostica nem prescreve.",
+      "version": "0.1.0",
+      "category": "saude"
+    },
+    {
+      "name": "envelhecer-bem",
+      "source": "./plugins/envelhecer-bem",
+      "description": "Autonomia na terceira idade e apoio a quem cuida: prevenção de quedas, casa segura, organização da medicação, memória e sobrecarga do cuidador — educacional, não diagnostica nem prescreve.",
+      "version": "0.1.0",
+      "category": "saude"
+    },
+    {
+      "name": "saude-da-mulher",
+      "source": "./plugins/saude-da-mulher",
+      "description": "Ciclo menstrual, TPM, contracepção, gravidez, pós-parto, menopausa e exames preventivos explicados sem tabu — educacional, não diagnostica nem prescreve.",
+      "version": "0.1.0",
+      "category": "saude"
+    },
+    {
+      "name": "saude-bucal",
+      "source": "./plugins/saude-bucal",
+      "description": "Escovação e fio que funcionam, prevenção de cárie e gengiva, mau hálito, sensibilidade e quando ir ao dentista — educacional, não diagnostica nem prescreve.",
+      "version": "0.1.0",
+      "category": "saude"
+    },
+    {
+      "name": "prevencao-e-checkup",
+      "source": "./plugins/prevencao-e-checkup",
+      "description": "Exames e vacinas por fase da vida, como aproveitar a consulta e sinais de alerta — educacional, nunca interpreta seu exame nem diagnostica.",
+      "version": "0.1.0",
+      "category": "saude"
     }
   ]
 }

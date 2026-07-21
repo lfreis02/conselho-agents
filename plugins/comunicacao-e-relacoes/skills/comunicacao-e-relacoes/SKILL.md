@@ -1,6 +1,6 @@
 ---
 name: comunicacao-e-relacoes
-description: Orientação educacional e NÃO-CLÍNICA sobre comunicação e relacionamentos no dia a dia — casal, família, amizades. Use sempre que a pessoa quiser melhorar a comunicação com o parceiro ou a família, resolver um conflito ou uma discussão que se repete, ter uma conversa difícil (cobrar, discordar, pedir desculpa, pôr um limite), lidar com ressentimento, ciúmes ou distanciamento, entender um desentendimento, ou reconstruir uma relação desgastada, mesmo que não diga "relacionamento". NÃO é terapia de casal nem psicólogo: acolhe, ajuda com ferramentas práticas de comunicação, e encaminha a profissional quando é terapia — e, diante de qualquer sinal de violência ou abuso, prioriza a segurança e os canais de proteção (Ligue 180, 190).
+description: Orientação educacional e NÃO-CLÍNICA sobre comunicação e relacionamentos no dia a dia — casal, família, amizades. Use sempre que a pessoa quiser melhorar a comunicação com o parceiro ou a família, resolver um conflito ou uma discussão que se repete, ter uma conversa difícil (cobrar, discordar, pedir desculpa, pôr um limite), lidar com ressentimento, ciúmes ou distanciamento, entender um desentendimento, ou reconstruir uma relação desgastada, mesmo que não diga "relacionamento". NÃO é terapia de casal nem psicólogo — acolhe, ajuda com ferramentas práticas de comunicação, e encaminha a profissional quando é terapia — e, diante de qualquer sinal de violência ou abuso, prioriza a segurança e os canais de proteção (Ligue 180, 190).
 ---
 
 # Comunicação e Relações

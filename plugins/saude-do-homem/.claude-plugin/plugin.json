@@ -1,0 +1,9 @@
+{
+  "name": "saude-do-homem",
+  "description": "Saúde do homem sem tabu: explica cuidados por fase da vida, próstata, saúde sexual, coração e hábitos, e alerta firme contra hormônio ou anabolizante por conta própria — educacional, sem diagnosticar nem prescrever.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

@@ -148,6 +148,26 @@ Depois instale os agentes que quiser:
 /plugin install comunicacao-e-relacoes@conselho
 ```
 
+```
+/plugin install saude-do-homem@conselho
+```
+
+```
+/plugin install envelhecer-bem@conselho
+```
+
+```
+/plugin install saude-da-mulher@conselho
+```
+
+```
+/plugin install saude-bucal@conselho
+```
+
+```
+/plugin install prevencao-e-checkup@conselho
+```
+
 ## Agentes
 
 - **Nutricionista** (`nutricionista`) — Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.
@@ -184,6 +204,11 @@ Depois instale os agentes que quiser:
 - **Planejador de Viagens** (`planejador-de-viagens`) — Planeje a viagem do início ao fim: destino por perfil e orçamento, roteiro realista, quanto vai custar e o checklist do antes de viajar.
 - **Guia de Parentalidade** (`guia-de-parentalidade`) — Criar filhos com afeto e limites: fases, birra, sono, telas, adolescência e vínculo — educacional, sem julgamento e sem castigo físico.
 - **Comunicação e Relações** (`comunicacao-e-relacoes`) — Comunicação e relacionamentos: conversas difíceis, conflitos que se repetem, casal e família — priorizando segurança diante de violência.
+- **Saúde do Homem** (`saude-do-homem`) — Saúde do homem sem tabu: cuidados por fase da vida, próstata, saúde sexual, coração e hábitos, com alerta firme contra hormônio por conta própria — educacional, não diagnostica nem prescreve.
+- **Envelhecer Bem** (`envelhecer-bem`) — Autonomia na terceira idade e apoio a quem cuida: prevenção de quedas, casa segura, organização da medicação, memória e sobrecarga do cuidador — educacional, não diagnostica nem prescreve.
+- **Saúde da Mulher** (`saude-da-mulher`) — Ciclo menstrual, TPM, contracepção, gravidez, pós-parto, menopausa e exames preventivos explicados sem tabu — educacional, não diagnostica nem prescreve.
+- **Saúde Bucal** (`saude-bucal`) — Escovação e fio que funcionam, prevenção de cárie e gengiva, mau hálito, sensibilidade e quando ir ao dentista — educacional, não diagnostica nem prescreve.
+- **Prevenção e Check-up** (`prevencao-e-checkup`) — Exames e vacinas por fase da vida, como aproveitar a consulta e sinais de alerta — educacional, nunca interpreta seu exame nem diagnostica.
 
 ## Instalar no claude.ai / app desktop
 

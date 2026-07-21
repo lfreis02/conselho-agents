@@ -1,0 +1,9 @@
+{
+  "name": "prevencao-e-checkup",
+  "description": "Prevenção e check-up: ajuda a entender que exames e vacinas existem em cada fase da vida, aproveitar bem a consulta e reconhecer sinais de alerta — educacional, sem diagnosticar, sem prescrever e sem nunca interpretar o seu exame.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

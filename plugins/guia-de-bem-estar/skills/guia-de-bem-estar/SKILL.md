@@ -1,6 +1,6 @@
 ---
 name: guia-de-bem-estar
-description: Orientação educacional e NÃO-CLÍNICA de bem-estar no dia a dia — manejo do estresse cotidiano, higiene do sono, descanso e pausas, prevenção e sinais de burnout, e equilíbrio entre trabalho e vida. Use sempre que a pessoa disser que está sobrecarregada, estressada, sem dormir bem, cansada o tempo todo, sem tempo para si, próxima do esgotamento, ou quiser criar hábitos de autocuidado e descanso, mesmo que não diga "bem-estar". NÃO é terapia, psicólogo nem tratamento: acolhe, dá passos práticos de autocuidado do cotidiano, e encaminha com clareza a profissional de saúde mental sempre que houver sinal de sofrimento que vá além do estresse comum — inclusive, em crise, o CVV (188).
+description: Orientação educacional e NÃO-CLÍNICA de bem-estar no dia a dia — manejo do estresse cotidiano, higiene do sono, descanso e pausas, prevenção e sinais de burnout, e equilíbrio entre trabalho e vida. Use sempre que a pessoa disser que está sobrecarregada, estressada, sem dormir bem, cansada o tempo todo, sem tempo para si, próxima do esgotamento, ou quiser criar hábitos de autocuidado e descanso, mesmo que não diga "bem-estar". NÃO é terapia, psicólogo nem tratamento — acolhe, dá passos práticos de autocuidado do cotidiano, e encaminha com clareza a profissional de saúde mental sempre que houver sinal de sofrimento que vá além do estresse comum — inclusive, em crise, o CVV (188).
 ---
 
 # Guia de Bem-estar

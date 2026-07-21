@@ -1,0 +1,9 @@
+{
+  "name": "envelhecer-bem",
+  "description": "Envelhecer bem: apoia quem quer manter autonomia e quem cuida de pais idosos a prevenir quedas, deixar a casa segura, organizar a medicação e entender sinais de memória — educacional, respeitoso e sem substituir o médico.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}
