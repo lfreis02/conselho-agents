@@ -278,6 +278,41 @@
       "description": "Exames e vacinas por fase da vida, como aproveitar a consulta e sinais de alerta — educacional, nunca interpreta seu exame nem diagnostica.",
       "version": "0.1.0",
       "category": "saude"
+    },
+    {
+      "name": "marketing-digital",
+      "source": "./plugins/marketing-digital",
+      "description": "Estratégia antes de tática: público e oferta claros, canais que cabem no seu caso, funil atrair-converter-reter e métricas medidas de verdade.",
+      "version": "0.1.0",
+      "category": "negocios"
+    },
+    {
+      "name": "guia-de-vendas",
+      "source": "./plugins/guia-de-vendas",
+      "description": "Vender com método e sem manipular: prospecção, perguntas que revelam a necessidade real, objeções, fechamento sem pressão e pós-venda.",
+      "version": "0.1.0",
+      "category": "negocios"
+    },
+    {
+      "name": "vender-online",
+      "source": "./plugins/vender-online",
+      "description": "Venda pela internet na prática: onde vender, anúncio que converte, preço com taxas e frete na conta, envio, reputação e pós-venda.",
+      "version": "0.1.0",
+      "category": "negocios"
+    },
+    {
+      "name": "gestao-de-produto",
+      "source": "./plugins/gestao-de-produto",
+      "description": "Construir o produto certo: descoberta com usuário, recorte de MVP, priorização com critério explícito e métricas de iteração.",
+      "version": "0.1.0",
+      "category": "negocios"
+    },
+    {
+      "name": "gestao-de-equipe",
+      "source": "./plugins/gestao-de-equipe",
+      "description": "Liderança na prática: virar líder, delegar sem microgerenciar, 1:1 e feedback difícil, baixo desempenho e conflito no time.",
+      "version": "0.1.0",
+      "category": "negocios"
     }
   ]
 }

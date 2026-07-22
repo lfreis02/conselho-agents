@@ -1,0 +1,9 @@
+{
+  "name": "guia-de-vendas",
+  "description": "Guia de vendas consultivas e éticas: prospecção, perguntas que revelam a necessidade real, resposta a objeções, fechamento sem pressão, follow-up e pós-venda que gera indicação.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "vender-online",
+  "description": "Guia prático de venda pela internet no Brasil: escolha de canal, anúncio que converte, preço com taxas e frete na conta, envio, reputação e pós-venda, com contas mostradas e sem número inventado.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

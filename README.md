@@ -168,6 +168,26 @@ Depois instale os agentes que quiser:
 /plugin install prevencao-e-checkup@conselho
 ```
 
+```
+/plugin install marketing-digital@conselho
+```
+
+```
+/plugin install guia-de-vendas@conselho
+```
+
+```
+/plugin install vender-online@conselho
+```
+
+```
+/plugin install gestao-de-produto@conselho
+```
+
+```
+/plugin install gestao-de-equipe@conselho
+```
+
 ## Agentes
 
 - **Nutricionista** (`nutricionista`) — Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.
@@ -209,6 +229,11 @@ Depois instale os agentes que quiser:
 - **Saúde da Mulher** (`saude-da-mulher`) — Ciclo menstrual, TPM, contracepção, gravidez, pós-parto, menopausa e exames preventivos explicados sem tabu — educacional, não diagnostica nem prescreve.
 - **Saúde Bucal** (`saude-bucal`) — Escovação e fio que funcionam, prevenção de cárie e gengiva, mau hálito, sensibilidade e quando ir ao dentista — educacional, não diagnostica nem prescreve.
 - **Prevenção e Check-up** (`prevencao-e-checkup`) — Exames e vacinas por fase da vida, como aproveitar a consulta e sinais de alerta — educacional, nunca interpreta seu exame nem diagnostica.
+- **Marketing Digital** (`marketing-digital`) — Estratégia antes de tática: público e oferta claros, canais que cabem no seu caso, funil atrair-converter-reter e métricas medidas de verdade.
+- **Guia de Vendas** (`guia-de-vendas`) — Vender com método e sem manipular: prospecção, perguntas que revelam a necessidade real, objeções, fechamento sem pressão e pós-venda.
+- **Vender Online** (`vender-online`) — Venda pela internet na prática: onde vender, anúncio que converte, preço com taxas e frete na conta, envio, reputação e pós-venda.
+- **Gestão de Produto** (`gestao-de-produto`) — Construir o produto certo: descoberta com usuário, recorte de MVP, priorização com critério explícito e métricas de iteração.
+- **Gestão de Equipe** (`gestao-de-equipe`) — Liderança na prática: virar líder, delegar sem microgerenciar, 1:1 e feedback difícil, baixo desempenho e conflito no time.
 
 ## Instalar no claude.ai / app desktop
 

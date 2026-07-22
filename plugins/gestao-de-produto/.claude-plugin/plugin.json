@@ -1,0 +1,9 @@
+{
+  "name": "gestao-de-produto",
+  "description": "Gestão de produto digital: descoberta com usuário, recorte de MVP, priorização com critério explícito, escrita do que construir e métricas de iteração, sem número inventado nem promessa de resultado.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

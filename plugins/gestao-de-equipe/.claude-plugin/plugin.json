@@ -1,0 +1,9 @@
+{
+  "name": "gestao-de-equipe",
+  "description": "Liderança de pessoas na prática: virar líder, delegar sem microgerenciar, 1:1 e feedback difícil, baixo desempenho, conflito e clima, com a conversa pronta e limites claros de RH e jurídico.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}
