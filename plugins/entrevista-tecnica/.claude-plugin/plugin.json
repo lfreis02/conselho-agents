@@ -1,0 +1,9 @@
+{
+  "name": "entrevista-tecnica",
+  "description": "Preparação para processo seletivo técnico em tecnologia: live coding, algoritmos, system design, take-home e comportamental técnico, com simulado e diagnóstico da etapa que elimina você.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

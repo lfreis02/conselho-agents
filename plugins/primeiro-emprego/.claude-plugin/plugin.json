@@ -1,0 +1,9 @@
+{
+  "name": "primeiro-emprego",
+  "description": "Primeiro emprego: transforma projeto de faculdade, curso, voluntariado e trabalho informal em experiência de currículo, organiza a busca por estágio, aprendiz, trainee e júnior e prepara para as etapas reais do processo de entrada.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

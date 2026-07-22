@@ -188,6 +188,26 @@ Depois instale os agentes que quiser:
 /plugin install gestao-de-equipe@conselho
 ```
 
+```
+/plugin install primeiro-emprego@conselho
+```
+
+```
+/plugin install freelancer-e-autonomo@conselho
+```
+
+```
+/plugin install trabalho-remoto@conselho
+```
+
+```
+/plugin install desenvolvimento-profissional@conselho
+```
+
+```
+/plugin install entrevista-tecnica@conselho
+```
+
 ## Agentes
 
 - **Nutricionista** (`nutricionista`) — Agente especializado em nutrição: orientações alimentares, planos e educação nutricional.
@@ -234,6 +254,11 @@ Depois instale os agentes que quiser:
 - **Vender Online** (`vender-online`) — Venda pela internet na prática: onde vender, anúncio que converte, preço com taxas e frete na conta, envio, reputação e pós-venda.
 - **Gestão de Produto** (`gestao-de-produto`) — Construir o produto certo: descoberta com usuário, recorte de MVP, priorização com critério explícito e métricas de iteração.
 - **Gestão de Equipe** (`gestao-de-equipe`) — Liderança na prática: virar líder, delegar sem microgerenciar, 1:1 e feedback difícil, baixo desempenho e conflito no time.
+- **Primeiro Emprego** (`primeiro-emprego`) — Para quem está começando: currículo sem experiência formal, onde procurar vaga de entrada, as etapas do processo e os primeiros meses no trabalho.
+- **Freelancer e Autônomo** (`freelancer-e-autonomo`) — Viver por conta própria: quando sair do CLT, conseguir e manter clientes, gerir vários prazos e lidar com renda instável.
+- **Trabalho Remoto** (`trabalho-remoto`) — Trabalhar bem de casa: comunicação assíncrona, visibilidade sem presença, separar casa e trabalho e time distribuído.
+- **Desenvolvimento Profissional** (`desenvolvimento-profissional`) — Crescer de propósito: que habilidade falta de verdade, avaliar curso e certificação com ceticismo, plano de prática, mentoria e rede.
+- **Entrevista Técnica** (`entrevista-tecnica`) — Preparação para processo técnico em tecnologia: etapas, live coding com método, system design, take-home e comportamental técnico.
 
 ## Instalar no claude.ai / app desktop
 

@@ -1,0 +1,9 @@
+{
+  "name": "freelancer-e-autonomo",
+  "description": "Viver de trabalho por conta própria como modo de carreira: decidir a saída do CLT, conseguir e manter clientes, gerir vários projetos e sobreviver à renda variável.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

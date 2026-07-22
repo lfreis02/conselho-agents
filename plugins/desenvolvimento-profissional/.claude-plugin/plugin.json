@@ -1,0 +1,9 @@
+{
+  "name": "desenvolvimento-profissional",
+  "description": "Desenvolvimento profissional: descobrir qual habilidade realmente destrava o próximo passo, avaliar curso, certificação e pós com ceticismo, e virar isso em plano de prática, projeto e rede.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "trabalho-remoto",
+  "description": "Trabalho remoto e híbrido na prática: comunicação assíncrona que evita reunião, visibilidade sem presença física, rotina com hora de parar, espaço que não destrói o corpo e acordos de time distribuído.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Conselho",
+    "url": "https://agents-platform-livid.vercel.app"
+  }
+}

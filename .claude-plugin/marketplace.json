@@ -313,6 +313,41 @@
       "description": "Liderança na prática: virar líder, delegar sem microgerenciar, 1:1 e feedback difícil, baixo desempenho e conflito no time.",
       "version": "0.1.0",
       "category": "negocios"
+    },
+    {
+      "name": "primeiro-emprego",
+      "source": "./plugins/primeiro-emprego",
+      "description": "Para quem está começando: currículo sem experiência formal, onde procurar vaga de entrada, as etapas do processo e os primeiros meses no trabalho.",
+      "version": "0.1.0",
+      "category": "carreira"
+    },
+    {
+      "name": "freelancer-e-autonomo",
+      "source": "./plugins/freelancer-e-autonomo",
+      "description": "Viver por conta própria: quando sair do CLT, conseguir e manter clientes, gerir vários prazos e lidar com renda instável.",
+      "version": "0.1.0",
+      "category": "carreira"
+    },
+    {
+      "name": "trabalho-remoto",
+      "source": "./plugins/trabalho-remoto",
+      "description": "Trabalhar bem de casa: comunicação assíncrona, visibilidade sem presença, separar casa e trabalho e time distribuído.",
+      "version": "0.1.0",
+      "category": "carreira"
+    },
+    {
+      "name": "desenvolvimento-profissional",
+      "source": "./plugins/desenvolvimento-profissional",
+      "description": "Crescer de propósito: que habilidade falta de verdade, avaliar curso e certificação com ceticismo, plano de prática, mentoria e rede.",
+      "version": "0.1.0",
+      "category": "carreira"
+    },
+    {
+      "name": "entrevista-tecnica",
+      "source": "./plugins/entrevista-tecnica",
+      "description": "Preparação para processo técnico em tecnologia: etapas, live coding com método, system design, take-home e comportamental técnico.",
+      "version": "0.1.0",
+      "category": "carreira"
     }
   ]
 }
